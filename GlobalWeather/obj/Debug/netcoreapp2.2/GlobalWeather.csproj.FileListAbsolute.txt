@@ -1,0 +1,14 @@
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\obj\Debug\netcoreapp2.2\GlobalWeather.csprojAssemblyReference.cache
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\obj\Debug\netcoreapp2.2\GlobalWeather.csproj.CoreCompileInputs.cache
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\obj\Debug\netcoreapp2.2\GlobalWeather.RazorAssemblyInfo.cache
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\obj\Debug\netcoreapp2.2\GlobalWeather.RazorAssemblyInfo.cs
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\obj\Debug\netcoreapp2.2\GlobalWeather.AssemblyInfoInputs.cache
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\obj\Debug\netcoreapp2.2\GlobalWeather.AssemblyInfo.cs
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\bin\Debug\netcoreapp2.2\GlobalWeather.deps.json
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\bin\Debug\netcoreapp2.2\GlobalWeather.runtimeconfig.json
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\bin\Debug\netcoreapp2.2\GlobalWeather.runtimeconfig.dev.json
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\bin\Debug\netcoreapp2.2\GlobalWeather.dll
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\bin\Debug\netcoreapp2.2\GlobalWeather.pdb
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\obj\Debug\netcoreapp2.2\GlobalWeather.RazorTargetAssemblyInfo.cache
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\obj\Debug\netcoreapp2.2\GlobalWeather.dll
+C:\Users\czarn\Documents\Projects\visual-studio\GlobalWeather\GlobalWeather\obj\Debug\netcoreapp2.2\GlobalWeather.pdb
